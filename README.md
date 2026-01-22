@@ -80,6 +80,9 @@ EcoCount AI follows a structured object detection and analysis pipeline:
 
 - CSV and PDF reports
 
+<img width="1466" height="747" alt="image" src="https://github.com/user-attachments/assets/b3bc4961-a8ff-49a1-aadb-421b670a13b3" />
+
+
 ---
 
 ## 🌍 Applications
