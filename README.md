@@ -94,3 +94,20 @@ EcoCount AI follows a structured object detection and analysis pipeline:
 
 - Academic and research studies
 
+## 🔗 Live Demo
+
+- 🌐 Web App:  https://ecocount-ai.netlify.app/
+
+---
+
+## 👨‍💻 Team
+
+- D. L. Bhavana
+
+- D. Neha
+
+- P. R. Manikanta
+
+- Project Team: EcoCount AI
+
+---
