@@ -65,6 +65,23 @@ EcoCount AI follows a structured object detection and analysis pipeline:
 - Remote Sensing (NDVI analysis)
 
 ---
+
+## 📊 Output Generated
+
+- Tree count
+
+- Canopy density
+
+- Biomass estimation
+
+- Carbon stock estimation
+
+- Visual detection images
+
+- CSV and PDF reports
+
+---
+
 ## 🌍 Applications
 
 - Forest inventory and monitoring
