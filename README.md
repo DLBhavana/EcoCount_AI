@@ -66,5 +66,4 @@ EcoCount AI follows a structured object detection and analysis pipeline:
 
 ---
 
-## 📂 Project Structure
 
