@@ -1,7 +1,7 @@
 # 🌱 EcoCount AI  
 ## Automated Tree Enumeration System Using YOLOv11
 
-EcoCount AI is an AI-driven system designed to automatically estimate **tree count, canopy density, biomass, and carbon stock** from satellite or aerial forest imagery. The project leverages **deep learning (YOLOv11)** and **remote sensing techniques** to provide a fast, scalable, and cost-effective alternative to traditional forest survey methods.
+EcoCount AI is an AI-driven system designed to automatically estimate **tree count, canopy density, biomass, and carbon stock** from satellite or aerial forest imagery. The project leverages **deep learning (YOLOv8)** and **remote sensing techniques** to provide a fast, scalable, and cost-effective alternative to traditional forest survey methods.
 
 This system aims to support **forest monitoring, environmental assessment, and sustainable forest management**.
 
